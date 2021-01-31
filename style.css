@@ -1,0 +1,9 @@
+body {
+  margin: 30px;
+  font-family: Monaco, sans-serif;
+}
+
+.container {
+  max-width: 200px;
+  margin: auto;
+}
